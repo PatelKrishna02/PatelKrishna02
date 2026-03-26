@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Krishna Patel 👋
 
-<!--
-**PatelKrishna02/PatelKrishna02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Web Developer | Automation Tools  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an ICT graduate with hands-on experience building web applications and automation tools used in real-world business environments.
+
+I enjoy solving practical problems through software, improving workflows, and building systems that deliver real impact.
+
+---
+
+## 🔧 Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Python (Flask)  
+- Tools: Git, GitHub, REST APIs, IIS  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 PU Screen Generator  
+Python Flask application that generates engineering diagrams and production-ready PDFs  
+👉 https://github.com/PatelKrishna02/pu-screen-generator  
+
+---
+
+### 🔹 Woven Wire Weight Calculator  
+Web-based tool for real-time material weight calculation  
+👉 https://github.com/PatelKrishna02/woven-weight-calculator  
+
+---
+
+### 🔹 AutoAidPlus Website  
+Production website with WhatsApp-based booking system  
+👉 https://autoaidplus.com.au  
+
+---
+
+## 📫 Connect With Me
+📧 krishnashashikant@gmail.com  
+🔗 https://www.linkedin.com/in/krishnapatel16
