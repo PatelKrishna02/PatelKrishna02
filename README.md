@@ -5,9 +5,11 @@
 ---
 
 ## 🚀 About Me
-I am an ICT graduate with hands-on experience building web applications and automation tools used in real-world business environments.
+I have hands-on experience building real-world web applications and automation tools that improve business workflows.
 
-I enjoy solving practical problems through software, improving workflows, and building systems that deliver real impact.
+I have developed practical solutions using Python (Flask) and JavaScript, focusing on performance, usability, and clean system design.
+
+I enjoy solving real problems through code, turning manual processes into efficient, scalable systems.
 
 ---
 
