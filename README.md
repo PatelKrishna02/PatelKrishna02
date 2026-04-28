@@ -1,42 +1,41 @@
 # Hi, I'm Krishna Patel 👋
 
-💻 Software Engineer | Web Developer | Automation Tools  
+🎨 Junior UI/UX Designer | Web Designer | Frontend Developer  
 
 ---
 
 ## 🚀 About Me
-I have hands-on experience building real-world web applications and automation tools that improve business workflows.
+I am passionate about designing clean, user-friendly digital experiences that are both functional and visually engaging.
 
-I have developed practical solutions using Python (Flask) and JavaScript, focusing on performance, usability, and clean system design.
-
-I enjoy solving real problems through code, turning manual processes into efficient, scalable systems.
+With a background in web development, I bring a strong understanding of how design translates into real-world applications. I enjoy creating intuitive interfaces, improving user journeys, and turning ideas into meaningful digital solutions.
 
 ---
 
-## 🔧 Tech Stack
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Python (Flask)  
-- Tools: Git, GitHub, REST APIs, IIS  
+## 🎨 Design Focus
+- UI/UX Design (Layouts, User Flows, Wireframing)
+- Responsive Web Design (Mobile-first)
+- Typography, Colour, and Visual Hierarchy
+- Designing for usability and real-world users
 
 ---
 
 ## 📌 Featured Projects
 
+### 🔹 AutoAidPlus Website  
+A fully designed and developed business website focused on user experience and conversion  
+👉 https://autoaidplus.com.au  
+
+---
+
 ### 🔹 PU Screen Generator  
-Python Flask application that generates engineering diagrams and production-ready PDFs  
+Designed a structured interface for generating visual engineering diagrams  
 👉 https://github.com/PatelKrishna02/pu-screen-generator  
 
 ---
 
 ### 🔹 Woven Wire Weight Calculator  
-Web-based tool for real-time material weight calculation  
+Clean and simple UI designed for fast and intuitive user interaction  
 👉 https://github.com/PatelKrishna02/woven-weight-calculator  
-
----
-
-### 🔹 AutoAidPlus Website  
-Production website with WhatsApp-based booking system  
-👉 https://autoaidplus.com.au  
 
 ---
 
