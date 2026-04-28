@@ -1,4 +1,4 @@
-Hi, I'm Krishna Patel 👋
+## Hi, I'm Krishna Patel 👋
 
 🎨 UI/UX Designer | Web Designer  
 
