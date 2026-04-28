@@ -1,13 +1,13 @@
-# Hi, I'm Krishna Patel 👋
+Hi, I'm Krishna Patel 👋
 
-🎨 Junior UI/UX Designer | Web Designer | Frontend Developer  
+🎨 UI/UX Designer | Web Designer  
 
 ---
 
 ## 🚀 About Me
 I am passionate about designing clean, user-friendly digital experiences that are both functional and visually engaging.
 
-With a background in web development, I bring a strong understanding of how design translates into real-world applications. I enjoy creating intuitive interfaces, improving user journeys, and turning ideas into meaningful digital solutions.
+With hands-on experience designing and building real-world applications, I focus on creating intuitive interfaces, improving user journeys, and solving practical problems through design.
 
 ---
 
